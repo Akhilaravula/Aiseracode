@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0478500-1cff-455b-8390-7a54a37635d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/testng_remote.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Google Application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/java/utilis/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/java/utilis/webDriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Testbase/webDriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/FillForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/Staticvalues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Costom01Reporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/CustomReporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/LoginPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/multipleBrowsersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resource/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resource/customreport.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="TestNG" name="multipleBrowsersTest" />
+    </enabled-run-configurations>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2h305kcZ0D8nV2J5ekW5f9eS2dB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ConfigReader.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Staticvalues.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestBase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test01.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.test.java.tests in Google Application.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/AkhilaReddy/IdeaProjects/Google Application/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginPage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginPageTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginPageTest.fillform.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Run With Reports.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.multipleBrowsers.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.multipleBrowsers.verifywindowTitle.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.multipleBrowsersTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.multipleBrowsrs.verifywindowTitle.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/AkhilaReddy/Downloads/logback-classic-1.5.7.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="main.java.utilis" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test.java.Testbase" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/AkhilaReddy/IdeaProjects/Google Application/testng.xml">
+    <configuration name="Staticvalues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.java.pages.Staticvalues" />
+      <module name="Google Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/AkhilaReddy/IdeaProjects/Google Application/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Google Application" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest.fillform" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Google Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.tests" />
+      <option name="MAIN_CLASS_NAME" value="test.java.tests.LoginPageTest" />
+      <option name="METHOD_NAME" value="fillform" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run With Reports" type="TestNG">
+      <module name="Google Application" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="test.java.tests" />
+      <option name="MAIN_CLASS_NAME" value="test.java.tests.LoginPageTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="multipleBrowsersTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Google Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.tests" />
+      <option name="MAIN_CLASS_NAME" value="test.java.tests.multipleBrowsersTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="multipleBrowsers.verifywindowTitle" type="TestNG" temporary="true">
+      <module name="Google Application" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="test.java.tests" />
+      <option name="MAIN_CLASS_NAME" value="test.java.tests.multipleBrowsrs" />
+      <option name="METHOD_NAME" value="verifywindowTitle" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Staticvalues" />
+      <item itemvalue="TestNG.Run With Reports" />
+      <item itemvalue="TestNG.multipleBrowsersTest" />
+      <item itemvalue="TestNG.multipleBrowsers.verifywindowTitle" />
+      <item itemvalue="TestNG.C:/Users/AkhilaReddy/IdeaProjects/Google Application/testng.xml" />
+      <item itemvalue="TestNG.LoginPageTest.fillform" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/AkhilaReddy/IdeaProjects/Google Application/testng.xml" />
+        <item itemvalue="TestNG.multipleBrowsersTest" />
+        <item itemvalue="TestNG.multipleBrowsers.verifywindowTitle" />
+        <item itemvalue="TestNG.LoginPageTest.fillform" />
+        <item itemvalue="Application.Staticvalues" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0478500-1cff-455b-8390-7a54a37635d9" name="Changes" comment="" />
+      <created>1716807276601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716807276601</updated>
+    </task>
+    <servers />
+  </component>
+</project>
